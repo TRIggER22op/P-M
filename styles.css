@@ -291,7 +291,7 @@ textarea {
 }
 
 .hero-block__wrapper {
-    margin-top: -3.6rem;
+    margin-top: -22.6rem;
     position: relative;
     justify-content: center
 }
@@ -310,7 +310,7 @@ textarea {
 }
 
 .hero-block__image {
-    max-width: 59.4rem
+max-width: 18%;
 }
 
 .hero-block__image img {
@@ -445,9 +445,9 @@ textarea {
     }
 }
 
-@media (max-width:1440px) {
+@media (max-width:1010x) {
     .hero-block__wrapper {
-        margin-top: 5rem
+        margin-top: 2rem
     }
     .hero-block__image {
         max-width: 45rem
